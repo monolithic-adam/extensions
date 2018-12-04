@@ -16,6 +16,7 @@
 		574105932151F5CC00152ECA /* UIView+IBInspectable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574105922151F5CC00152ECA /* UIView+IBInspectable.swift */; };
 		574105982151F63200152ECA /* String+StringProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574105972151F63200152ECA /* String+StringProvider.swift */; };
 		5741059B2151F69400152ECA /* Int+CommaString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5741059A2151F69400152ECA /* Int+CommaString.swift */; };
+		8F03692A21B63EBB00822562 /* UIView+Identifiable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F03692921B63EBB00822562 /* UIView+Identifiable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		574105922151F5CC00152ECA /* UIView+IBInspectable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+IBInspectable.swift"; sourceTree = "<group>"; };
 		574105972151F63200152ECA /* String+StringProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+StringProvider.swift"; sourceTree = "<group>"; };
 		5741059A2151F69400152ECA /* Int+CommaString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Int+CommaString.swift"; sourceTree = "<group>"; };
+		8F03692921B63EBB00822562 /* UIView+Identifiable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Identifiable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				574105922151F5CC00152ECA /* UIView+IBInspectable.swift */,
+				8F03692921B63EBB00822562 /* UIView+Identifiable.swift */,
 			);
 			path = UIView;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F03692A21B63EBB00822562 /* UIView+Identifiable.swift in Sources */,
 				574105932151F5CC00152ECA /* UIView+IBInspectable.swift in Sources */,
 				574105722151EEE800152ECA /* ViewController.swift in Sources */,
 				574105982151F63200152ECA /* String+StringProvider.swift in Sources */,
